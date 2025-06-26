@@ -1,3 +1,9 @@
+Plan: 
+    6 weeks (26/6 - 7/8):
+    week 1 (26/6 - 2/7): review knowledge
+    week 2: plan the project
+    week 3-5: do the project
+    week 6: review and optimize the project
 Logs:
 
 
